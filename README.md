@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/brand/senses-and-sensibility-hero.png" alt="Senses And Sensibility: Accountability Philosophy Corpus">
+</p>
+
 # Senses and Sensibility — *Conferred Existence*
 
 > A research program in **intrinsic, bilateral accountability** — and the long-form
