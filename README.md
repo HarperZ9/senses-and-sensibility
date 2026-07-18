@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/brand/senses-and-sensibility-hero.png" alt="Senses And Sensibility: Accountability Philosophy Corpus">
+  <img src=".github/assets/zentropy-banner.png" alt="Senses And Sensibility: Accountability Philosophy Corpus">
 </p>
 
 # Senses and Sensibility — *Conferred Existence*
@@ -53,3 +53,7 @@ are **not** part of this corpus; what is published is the scholarship.
 
 *Zain Dana Harper · [harperz9.github.io](https://harperz9.github.io) · MIT · 2026.*
 *Proof before trust — including about authorship.*
+
+---
+
+**[Zentropy Labs](https://github.com/ZentropyLabs-ai)** · order out of entropy. An independent lab building evidence-first tools that leave a re-checkable artifact behind. Built by Zain Dana Harper in Seattle. The full workbench is at [Project Telos](https://harperz9.github.io).
