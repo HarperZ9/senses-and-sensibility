@@ -6,7 +6,7 @@
 
 > A research program in **intrinsic, bilateral accountability** — and the long-form
 > philosophical corpus it is extracted from. Original scholarship by **Zain Dana Harper**.
-> MIT-licensed · authored · dated 2026-06-20.
+> Text: CC BY 4.0. Code: MIT. Authored and dated 2026-06-20.
 
 This is the *philosophy*. The accountability thesis it grounds is also built and
 public — a tested, inspectable stack of organs at **[harperz9.github.io](https://harperz9.github.io)**
@@ -49,9 +49,20 @@ Verify with `sha256sum -c MANIFEST.sha256`.
 The buildable security-architecture *implementation* and the internal research tooling
 are **not** part of this corpus; what is published is the scholarship.
 
+## Licence
+
+Text: CC BY 4.0. Code: MIT.
+
+The paper and the corpus are prose, so they carry a Creative Commons licence.
+You may share and adapt them for any purpose if you credit Zain Dana Harper and
+link the deposit at [doi.org/10.5281/zenodo.20773724](https://doi.org/10.5281/zenodo.20773724),
+which Zenodo records under the same licence. The terms are in
+[`LICENSE-TEXT`](LICENSE-TEXT). The repository holds no code today. Code added
+later falls under the MIT terms in [`LICENSE`](LICENSE).
+
 ---
 
-*Zain Dana Harper · [harperz9.github.io](https://harperz9.github.io) · MIT · 2026.*
+*Zain Dana Harper · [harperz9.github.io](https://harperz9.github.io) · Text CC BY 4.0, code MIT · 2026.*
 *Proof before trust — including about authorship.*
 
 ---
