@@ -1,0 +1,28 @@
+# Every file listed in MANIFEST.sha256 is sealed by the SHA-256 of its exact bytes.
+# With core.autocrlf=true (the Git for Windows default and the GitHub Windows runner
+# default), checkout rewrites LF to CRLF, every digest changes, and
+# `sha256sum -c MANIFEST.sha256` fails on a file nobody edited. `-text` turns off
+# line-ending conversion, so checkout writes the committed bytes on every platform.
+# MANIFEST.sha256 is pinned too: a CRLF copy puts a carriage return on each path.
+# Root-level paths start with "/" so they do not also match files in subfolders.
+# Files outside the manifest (README, LICENSE, docs/, .github/) keep default handling.
+/00-ABSTRACT.md -text
+/ASEITY-CONFRONTATION.md -text
+/CATALOG.md -text
+/CONFERRED-EXISTENCE.txt -text
+/CROSS-EXAMINATION.md -text
+/DISSERTATION-PROSPECTUS.md -text
+/INDEX.md -text
+/MANIFEST.sha256 -text
+/PRESENTATION.md -text
+/SUTURE-TEST.md -text
+/SYLLABUS.md -text
+/THE-STRAIGHT-LINE.md -text
+/THESIS.md -text
+_front/** -text
+conferred-existence/** -text
+dissertation/** -text
+papers/** -text
+references/** -text
+submission/** -text
+thesis/** -text
