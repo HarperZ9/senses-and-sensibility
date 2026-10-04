@@ -45,6 +45,18 @@ scholarship staking its ground, not a finished dissertation.
 - **`papers/`** · **`submission/`** — submission-shaped manuscripts.
 - **`conferred-existence/`** — the source corpus the thesis is drawn from.
 
+## Cloning on Windows
+
+One file path in `dissertation/foundations-src/` is 140 characters long. Inside a deep
+folder that pushes the full path past the 260-character Windows limit, and Git aborts
+the checkout. Turn on long paths for the clone:
+
+```sh
+git clone -c core.longpaths=true https://github.com/HarperZ9/senses-and-sensibility.git
+```
+
+Or set it once for every repository with `git config --global core.longpaths true`.
+
 ## Priority & provenance
 
 `MANIFEST.sha256` is a content-addressed record of every file here — a provable,
