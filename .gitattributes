@@ -26,3 +26,8 @@ papers/** -text
 references/** -text
 submission/** -text
 thesis/** -text
+
+# Repo art receipts (docs/art/receipts.json) record the SHA-256 of each output's
+# stored bytes, so Git must not rewrite line endings on checkout. Without this, a
+# Windows clone with core.autocrlf=true fails the SVG digests.
+docs/art/** -text
