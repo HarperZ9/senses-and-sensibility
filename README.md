@@ -1,8 +1,13 @@
-<p align="center">
-  <img src=".github/assets/banner.png" alt="Senses And Sensibility: Accountability Philosophy Corpus">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarperZ9/senses-and-sensibility/main/docs/art/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/HarperZ9/senses-and-sensibility/main/docs/art/hero-light.svg" alt="senses-and-sensibility: A research program in intrinsic, bilateral accountability for agents. A fan of ruled sheets drawn in fine lines, the top sheet lit by a bright core." width="100%">
+</picture>
 
-# Senses and Sensibility — *Conferred Existence*
+# senses-and-sensibility
+
+A research program in intrinsic, bilateral accountability for agents.
+
+[![license](https://img.shields.io/badge/license-CC_BY_4.0%2C_MIT-e6e1d6?style=flat-square&labelColor=1a1712)](https://github.com/HarperZ9/senses-and-sensibility/blob/main/LICENSE)
 
 > A research program in **intrinsic, bilateral accountability** — and the long-form
 > philosophical corpus it is extracted from. Original scholarship by **Zain Dana Harper**.
